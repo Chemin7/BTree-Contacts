@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649643801 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+
+1649642098 c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+

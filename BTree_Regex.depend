@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1651158972 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree_regex\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+	"contact.h"
+
+1651161347 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree_regex\btree.h
+	<exception>
+	<string>
+	<iostream>
+
+1651121648 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree_regex\contact.cpp
+	"contact.h"
+	<iostream>
+	<regex>
+
+1651121357 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree_regex\contact.h
+	<string>
+	<regex>
+	<iostream>
+
